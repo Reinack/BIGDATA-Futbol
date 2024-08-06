@@ -1,0 +1,147 @@
+teamID,name,city,latitude,longitude
+71,Aston Villa,Birmingham,52.509,-1.8845
+72,Everton,Liverpool,53.4389,-2.9664
+74,Southampton,Southampton,50.9055,-1.3915
+75,Leicester,Leicester,52.6204,-1.1422
+76,West Bromwich Albion,West Bromwich,52.5093,-1.9635
+77,Sunderland,Sunderland,54.9146,-1.3824
+78,Crystal Palace,London,51.3983,-0.0853
+80,Chelsea,London,51.4817,-0.1909
+81,West Ham,London,51.5387,0.0166
+82,Tottenham,London,51.6033,-0.0657
+83,Arsenal,London,51.5549,-0.1084
+84,Swansea,Swansea,51.6427,-3.9345
+85,Stoke,Stoke-on-Trent,52.9885,-2.1751
+86,Newcastle United,Newcastle upon Tyne,54.9756,-1.6175
+87,Liverpool,Liverpool,53.4308,-2.9608
+88,Manchester City,Manchester,53.4831,-2.2004
+89,Manchester United,Manchester,53.4631,-2.2913
+91,Hull,Hull,53.7457,-0.3367
+92,Burnley,Burnley,53.789,-2.2301
+202,Queens Park Rangers,London,51.5092,-0.2323
+73,Bournemouth,Bournemouth,50.7353,-1.8381
+79,Norwich,Norwich,52.6226,1.3087
+90,Watford,Watford,51.649,-0.4019
+93,Middlesbrough,Middlesbrough,54.5743,-1.2344
+219,Huddersfield,Huddersfield,53.6542,-1.7841
+220,Brighton,Brighton,50.8615,-0.0837
+227,Cardiff,Cardiff,51.4783,-3.1824
+228,Fulham,London,51.4748,-0.2212
+229,Wolverhampton Wanderers,Wolverhampton,52.5901,-2.1307
+238,Sheffield United,Sheffield,53.3702,-1.4703
+245,Leeds,Leeds,53.8008,-1.5491
+137,Malaga,Málaga,36.7213,-4.4216
+138,Sevilla,Sevilla,37.3886,-5.9823
+139,Deportivo La Coruna,A Coruña,43.3623,-8.4115
+140,Real Sociedad,San Sebastián,43.3183,-1.9812
+141,Espanyol,Barcelona,41.3818,2.1228
+142,Getafe,Getafe,40.3083,-3.7327
+143,Atletico Madrid,Madrid,40.4168,-3.7038
+145,Rayo Vallecano,Madrid,40.4168,-3.7038
+146,Valencia,Valencia,39.4699,-0.3763
+147,Athletic Club,Bilbao,43.263,-2.935
+148,Barcelona,Barcelona,41.3851,2.1734
+150,Real Madrid,Madrid,40.4168,-3.7038
+151,Levante,Valencia,39.4699,-0.3763
+152,Celta Vigo,Vigo,42.2406,-8.7207
+154,Villarreal,Villarreal,39.9366,-0.0982
+155,Granada,Granada,37.1765,-3.5979
+156,Eibar,Eibar,43.183,-2.4736
+206,Cordoba,Córdoba,37.8882,-4.7794
+207,Elche,Elche,38.2699,-0.7126
+208,Almeria,Almería,36.834,-2.4637
+144,Las Palmas,Las Palmas de Gran Canaria,28.1235,-15.4363
+149,Sporting Gijon,Gijón,43.545,-5.6611
+153,Real Betis,Sevilla,37.3886,-5.9823
+157,Osasuna,Pamplona,42.8125,-1.6458
+158,Alaves,Vitoria-Gasteiz,42.8467,-2.6717
+159,Leganes,Leganes,40.3272,-3.7655
+223,Girona,Girona,41.9794,2.8214
+231,Real Valladolid,Valladolid,41.6523,-4.7245
+232,SD Huesca,Huesca,42.1401,-0.4089
+239,Mallorca,Palma,39.5696,2.6502
+261,Cadiz,Cádiz,36.5164,-6.28
+117,Bayern Munich,Múnich,48.2188,11.6242
+118,Hamburger SV,Hamburgo,53.5511,9.9937
+119,Bayer Leverkusen,Leverkusen,51.0385,7.0026
+120,Hoffenheim,Sinsheim,49.2921,8.6669
+121,Augsburg,Augsburg,48.3715,10.8983
+122,Hertha Berlin,Berlín,52.52,13.405
+123,Werder Bremen,Bremen,53.0722,8.807
+124,Schalke 04,Gelsenkirchen,51.5545,7.0679
+125,Mainz 05, Maguncia,49.9842,8.2791
+128,Hannover 96, Hannover,52.3759,9.732
+129,Borussia Dortmund, Dortmund,51.4926,7.4518
+130,Borussia M.Gladbach, Mönchengladbach,51.1744,6.3863
+131,Wolfsburg, Wolfsburgo,52.4226,10.7866
+132,Eintracht Frankfurt, Frankfurt,50.0686,8.6455
+133,VfB Stuttgart, Stuttgart,48.7758,9.1829
+134,FC Cologne, Colonia,50.9333,6.95
+135,Freiburg, Friburgo de Brisgovia,47.9972,7.8539
+205,Paderborn, Paderborn,51.7191,8.7549
+126,Ingolstadt, Ingolstadt,48.7666,11.4255
+127,Darmstadt, Darmstadt,49.8728,8.6512
+136,RasenBallsport Leipzig, Leipzig,51.344,12.3426
+233,Fortuna Duesseldorf, Düsseldorf,51.2647,6.7886
+234,Nuernberg, Núremberg,49.4521,11.0767
+240,Union Berlin, Berlín,52.4737,13.4354
+262,Arminia Bielefeld, Bielefeld,52.017,8.52
+94,Verona,Verona,45.4384,10.9916
+95,Roma,Roma,41.9028,12.4964
+96,Lazio,Roma,41.9362,12.4951
+98,Juventus,Turín,45.1097,7.6413
+99,Udinese,Udine,46.0623,13.235
+100,Palermo,Palermo,38.1157,13.3615
+101,Genoa,Génova,44.4056,8.9463
+102,Sampdoria,Génova,44.4108,8.9705
+104,Sassuolo,Sassuolo,44.684,10.9131
+105,Napoli,Nápoles,40.8518,14.2681
+106,Inter,Milán,45.4789,9.2083
+107,Atalanta,Bérgamo,45.7228,9.6544
+108,Empoli,Empoli,43.7193,10.95
+109,Chievo,Verona,45.4265,11.891
+110,Fiorentina,Florencia,43.7808,11.2375
+111,AC Milan,Milán,45.4773,9.1895
+113,Torino,Turín,45.0396,7.6545
+116,Cagliari,Cagliari,39.2154,9.1097
+203,Cesena,Cesena,44.1354,12.2385
+97,Bologna,Bolonia,44.5041,11.3438
+103,Carpi,Carpi,44.7854,10.8773
+112,Frosinone,Frosinone,41.6395,13.3512
+114,Pescara,Pescara,42.464,14.2136
+115,Crotone,Crotone,39.0833,17.1233
+221,SPAL 2013,Ferrara,45.4068,11.8535
+222,Benevento,Benevento,41.1309,14.7834
+230,Parma Calcio 1913,Parma,44.8015,10.3281
+242,Brescia,Brescia,45.5415,10.2165
+243,Lecce,Lecce,40.3514,18.1743
+260,Spezia,La Spezia,44.1086,9.827
+160,Lille,Lille,50.6293,3.0573
+161,Paris Saint Germain,París,48.8412,2.253
+162,SC Bastia,Bastia,42.6936,9.4515
+163,Rennes,Rennes,48.1147,-1.6794
+164,Marseille,Marsella,43.2965,5.3698
+165,Caen,Caen,49.1829,-0.3707
+166,Montpellier,Montpellier,43.6112,3.8767
+168,Nantes,Nantes,47.2184,-1.5536
+169,Guingamp,Guingamp,48.5641,-3.1649
+170,Nice,Niza,43.7102,7.2619
+171,Monaco,Mónaco,43.7325,7.4189
+174,Toulouse,Toulouse,43.6045,1.444
+175,Saint-Etienne,Saint-Étienne,45.4528,4.3903
+176,Bordeaux,Burdeos,44.8378,-0.5792
+177,Reims,Reims,49.2563,4.0319
+178,Lyon,Lyon,45.7652,4.8357
+179,Lorient,Lorient,47.7486,-3.37
+180,Metz,Metz,49.1193,6.1757
+209,Evian Thonon Gaillard,Évian-les-Bains,46.387,6.565
+210,Lens,Lens,50.4354,2.829
+167,Angers,Angers,47.4736,-0.5465
+172,Troyes,Troyes,48.2996,4.0785
+173,GFC Ajaccio,Ajaccio,41.9311,8.7742
+181,Dijon,Dijon,47.3216,5.0415
+182,Nancy,Nancy,48.6921,6.1844
+224,Amiens,Amiens,49.8942,2.3027
+225,Strasbourg,Estrasburgo,48.5734,7.7521
+235,Nimes,Nimes,43.8345,4.3619
+241,Brest,Brest,48.4027,-4.4931
